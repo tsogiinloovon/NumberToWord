@@ -1,5 +1,5 @@
 {
-  "name": "number-to-word-mon",
+  "name": "@tsogiinloovon/number-to-word-mon",
   "version": "1.0.1",
   "description": "to convert number to word",
   "main": "index.js",
