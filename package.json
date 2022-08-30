@@ -1,0 +1,22 @@
+{
+  "name": "number-to-word-mon",
+  "version": "1.0.0",
+  "description": "to convert number to word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsogiinloovon/NumberToWord.git"
+  },
+  "keywords": [
+    "NTW"
+  ],
+  "author": "Tsogiinloovon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsogiinloovon/NumberToWord/issues"
+  },
+  "homepage": "https://github.com/tsogiinloovon/NumberToWord#readme"
+}
