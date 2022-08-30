@@ -1,6 +1,6 @@
 {
   "name": "@tsogiinloovon/number-to-word-mon",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "to convert number to word",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsogiinloovon/NumberToWord.git"
+    "url": "git+https://github.com/tsogiinloovon/npm-package-number-to-word.git"
   },
   "keywords": [
     "NTW"
   ],
-  "author": "Tsogiinloovon",
+  "author": "tsogiinloovon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tsogiinloovon/NumberToWord/issues"
   },
-  "homepage": "https://github.com/tsogiinloovon/NumberToWord#readme"
+  "homepage": "https://github.com/tsogiinloovon/NumberToWord#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
