@@ -1,6 +1,6 @@
 {
   "name": "number-to-word-mon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "to convert number to word",
   "main": "index.js",
   "scripts": {
