@@ -1,2 +1,2 @@
 # NumberToWord - npm - package
-to convert number to Mongolia word 
+to convert number to Mongolian word 
